@@ -1,7 +1,7 @@
 package utils
 
 import "fmt"
-
+// Forfunc for func
 func Forfunc() {
 
     i := 1
