@@ -8,4 +8,5 @@ func main() {
 
 	utils.Forfunc()
 	utils.PrtVar()
+	utils.Conditionalfunc()
 }
