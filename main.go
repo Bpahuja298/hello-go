@@ -1,7 +1,8 @@
 package main
 
 import (
-	"github.com/Bpahuja298/hello-go/utils"
+	"github.com/Bpahuja298/hello-go/datastruct"
+	//"github.com/Bpahuja298/hello-go/utils"
 )
 
 func main() {
@@ -9,5 +10,6 @@ func main() {
 	// utils.Forfunc()
 	// utils.PrtVar()
 	// utils.Conditionalfunc()
-	utils.Switchfunc()
+	//utils.Switchfunc()
+	datastruct.Arrayfunc()
 }
