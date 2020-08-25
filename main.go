@@ -6,7 +6,8 @@ import (
 
 func main() {
 
-	utils.Forfunc()
-	utils.PrtVar()
-	utils.Conditionalfunc()
+	// utils.Forfunc()
+	// utils.PrtVar()
+	// utils.Conditionalfunc()
+	utils.Switchfunc()
 }

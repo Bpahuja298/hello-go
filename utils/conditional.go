@@ -2,7 +2,7 @@ package utils
 
 import "fmt"
 
-// conditionalfunc for func
+// Conditionalfunc for func
 func Conditionalfunc() {
 
 	fmt.Println("Output of if/else")
