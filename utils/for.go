@@ -2,7 +2,7 @@ package utils
 
 import "fmt"
 
-// Forfunc for func
+// Forfunc for understanding for
 func Forfunc() {
 
 	fmt.Println("Output of for")

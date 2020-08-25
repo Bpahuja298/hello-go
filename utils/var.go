@@ -2,7 +2,7 @@ package utils
 
 import "fmt"
 
-// PrtVar print var
+// PrtVar print variables
 func PrtVar() {
 
 	fmt.Println("Output of var")
