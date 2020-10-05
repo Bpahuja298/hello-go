@@ -20,8 +20,13 @@ func Mapsfunc() {
     delete(m, "k2")
     fmt.Println("map:", m)
 
-    _, prs := m["k2"]
-    fmt.Println("prs:", prs)
+	_, prs := m["k2"]        //The optional second return value when getting a value 
+							 //from a map indicates if the key was present in the map.
+	fmt.Println("prs:", prs) // This can be used to disambiguate between missing keys
+							 // and keys with zero values like 0 or "". 
+							 //Here we didn’t need the value itself, so we ignored it
+							 // with the blank identifier _.
+    
 
     n := map[string]int{"foo": 1, "bar": 2}
     fmt.Println("map:", n)

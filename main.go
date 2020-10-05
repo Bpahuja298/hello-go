@@ -13,6 +13,7 @@ func main() {
 	//utils.Switchfunc()
 	//datastruct.Arrayfunc()
 	//datastruct.Slicefunc()
-	datastruct.Mapsfunc()
+	//datastruct.Mapsfunc()
+	datastruct.Rangefunc()
 
 }
