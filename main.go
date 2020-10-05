@@ -12,5 +12,7 @@ func main() {
 	// utils.Conditionalfunc()
 	//utils.Switchfunc()
 	//datastruct.Arrayfunc()
-	datastruct.Slicefunc()
+	//datastruct.Slicefunc()
+	datastruct.Mapsfunc()
+
 }
