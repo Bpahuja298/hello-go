@@ -11,5 +11,6 @@ func main() {
 	// utils.PrtVar()
 	// utils.Conditionalfunc()
 	//utils.Switchfunc()
-	datastruct.Arrayfunc()
+	//datastruct.Arrayfunc()
+	datastruct.Slicefunc()
 }

@@ -14,7 +14,7 @@ func Arrayfunc() {
 
     fmt.Println("len:", len(a))
 
-    b := [5]int{1, 2, 3, 4, 5}
+    b := [5]int{1, 2, 3, 4, 5}   //Use this syntax to declare and initialize an array in one line.
     fmt.Println("dcl:", b)
 
     var twoD [2][3]int
