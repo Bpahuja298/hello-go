@@ -16,6 +16,7 @@ func main() {
 	//datastruct.Slicefunc()
 	//datastruct.Mapsfunc()
 	//datastruct.Rangefunc()
-	functions.Basicfunc()
+	//functions.Basicfunc()
+	functions.Multiplereturnfunc()
 
 }
